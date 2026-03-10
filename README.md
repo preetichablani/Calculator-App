@@ -24,6 +24,22 @@ How to Run the Project
 2. Open the project in Android Studio.
 3. Build and run the application on an Android emulator or device.
 
+Project Structure
+MainActivity.java – Handles the main calculator functionality and performs arithmetic operations such as addition, subtraction, multiplication, and division.
+
+SplashScreen.java – Displays the splash screen when the application starts and redirects the user to the main calculator screen after a few seconds.
+
+activity_main.xml – Defines the user interface layout for the main calculator screen, including buttons and display area.
+
+activity_splash_screen.xml – Defines the layout design for the splash screen that appears when the application launches.
+
+AndroidManifest.xml – Contains essential information about the application, including activities, permissions, and the app's entry point.
+
+SplashScreen
+
+
+
+
 Author
 
 Preeti Chablani
@@ -31,3 +47,4 @@ Preeti Chablani
 Repository
 
 This project is uploaded on  for learning and academic purposes.
+
